@@ -5,7 +5,6 @@
 ## About Me:
 Hai, Saya Rafell. <br>Saya Seorang Pemula<br>Beginner
 
-
 ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@rafellgeh!) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@r_apelll) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rafellgeraldo@gmail.com) 
 
